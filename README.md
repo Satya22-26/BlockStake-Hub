@@ -2,8 +2,8 @@
 
 BlockStake Hub is a decentralized application (DApp) that allows users to stake ERC20 tokens and earn rewards. The staking process generates reward tokens continuously, rewarding users based on the amount they stake and the duration of their stake.
 
-![Light Mode](https://drive.google.com/file/d/15xaaE8xH7VtRUnKtAUzvZ5MqpEaOfZmx/view?usp=sharing)
-![Dark Mode](https://drive.google.com/file/d/1PtvCZO1NnZhR257FDAplL0ArwN0SIrfe/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1PtvCZO1NnZhR257FDAplL0ArwN0SIrfe/view?usp=drive_link" alt="Light Mode" width="400"/>
+<img src="https://drive.google.com/file/d/15xaaE8xH7VtRUnKtAUzvZ5MqpEaOfZmx/view?usp=sharing" alt="Dark Mode" width="400"/>
 
 ## ERC20 Tokens
 
