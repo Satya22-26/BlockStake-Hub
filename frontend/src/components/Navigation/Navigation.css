@@ -1,0 +1,69 @@
+.navbar {
+  width: 100%;
+  height: 80px;
+  padding: 36px;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--bg-color);
+  border-bottom: 0.4px solid rgb(182, 182, 182);
+}
+
+.navbar-btns {
+  font-size: 10px !important;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+.navbar-acc {
+  font-size: 10px !important;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+/* connected account */
+.connected-ac {
+  background-color: var(--white);
+  padding: 8px;
+  border-radius: 8px;
+  font-size: 12px;
+}
+
+/* connected network */
+.network {
+  background-color: var(--white);
+  padding: 8px;
+  border-radius: 8px;
+  font-size: 12px;
+}
+
+.theme-toggle-btn {
+  background: none;
+  color: var(--primary-color);
+  background-color: var(--white);
+  border: none;
+  font-size: 1rem; /* Reduced font size */
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Center the text */
+  padding: 8px; /* Reduced padding */
+  border-radius: 4px;
+}
+
+
+
+.navbar.dark {
+  background-color: var(--bg-color);
+}
+
+.navbar.dark .theme-toggle-btn {
+  color: var(--primary-color);
+}
